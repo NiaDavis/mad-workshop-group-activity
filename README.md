@@ -1,4 +1,4 @@
-## App Name
+## Companion
 
 ### App Description
 Allows...
