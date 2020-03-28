@@ -14,8 +14,14 @@ Amidst the COVID-19 Pandemic, many senior citizens are unable to obtain the basi
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+1. Spot to input address 
+2. Volunteer delivery sign-ups 
+3. Two different registrations: seniors and younger population (volunteers)
+4. Select store -> view products at that store -> select product
+5. Have a map view to track where the order is, what phase the order is in
+6. Payment options - Account within app -> notifies you when your balance is running low
+7. Feature that allows user to take picture of their card, app retrieves necessary info so that user doesn’t have to manually enter in all their info
+8. Setup Family Option (allows different family members to use/monitor one account, allows senior caretakers/family members to help primary user navigate the app) 
 
 ---
 
