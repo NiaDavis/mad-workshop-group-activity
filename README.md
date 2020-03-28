@@ -20,7 +20,8 @@ Amidst the COVID-19 Pandemic, many senior citizens are unable to obtain the basi
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+Wireframe Image:
+
 
 ---
 
